@@ -1,0 +1,14 @@
+.app {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #e2f4f7 0%, #f5fdff 100%);
+}
+
+.app__header {
+  background-color: #1e9c39;
+  padding: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tracking-wide {
+  letter-spacing: 0.2rem;
+}
